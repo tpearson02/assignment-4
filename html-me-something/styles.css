@@ -1,2 +1,18 @@
 ﻿body {
+   background-color: mintcream;
+}
+h1{text-align:center;}
+h1{font-family:Georgia, 'Times New Roman', Times, serif;}
+h1{ color: black;}
+h2{font-family:Georgia, 'Times New Roman', Times, serif;}
+h2{ color: darkgreen;}
+h3{font-family:Georgia, 'Times New Roman', Times, serif;}
+h3{color: darkred;}
+.trying{text-align:left;
+}
+#Covid{font-size:30px;}
+#Covid{padding-top: 30px;}
+footer{margin-top: 100px;
+       margin-right: 200px;
+       margin-left: 200px;
 }
